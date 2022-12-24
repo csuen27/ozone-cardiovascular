@@ -1,0 +1,6 @@
+M49C,cvd_25_death_urban_est,cvd_25_death_urban_lb,cvd_25_death_urban_ub,cvd_25_death_rural_est,cvd_25_death_rural_lb,cvd_25_death_rural_ub
+Africa,3600.0,1900.0,5600.0,22100.0,11700.0,33900.0
+Americas,28300.0,15200.0,42000.0,15200.0,8200.0,22600.0
+Asia,52000.0,27800.0,78000.0,182800.0,97800.0,274400.0
+Europe,34700.0,18600.0,51600.0,51700.0,27800.0,76400.0
+Oceania,0.0,0.0,0.0,100.0,100.0,200.0
