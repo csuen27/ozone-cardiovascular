@@ -1,0 +1,169 @@
+country,cvd_25_death_urban_est,cvd_25_death_urban_lb,cvd_25_death_urban_ub
+China,116600.0,61600.0,181000.0
+India,38700.0,20600.0,59300.0
+United States,16900.0,8900.0,26200.0
+Russia,10100.0,5300.0,15800.0
+Japan,8400.0,4400.0,13300.0
+Indonesia,4900.0,2600.0,7700.0
+Pakistan,4500.0,2400.0,6800.0
+Bangladesh,4500.0,2400.0,7200.0
+Italy,4100.0,2200.0,6300.0
+Germany,3800.0,2000.0,5800.0
+Ukraine,3600.0,1800.0,5900.0
+Mexico,2800.0,1500.0,4300.0
+Iran,2800.0,1500.0,4100.0
+Egypt,2600.0,1300.0,4100.0
+Turkey,2500.0,1300.0,4000.0
+Spain,2100.0,1100.0,3200.0
+Brazil,2100.0,1100.0,3200.0
+France,2000.0,1100.0,3100.0
+North Korea,1800.0,1000.0,2900.0
+South Korea,1700.0,900.0,2600.0
+Poland,1500.0,800.0,2300.0
+Iraq,1400.0,700.0,2400.0
+Morocco,1300.0,700.0,2000.0
+Vietnam,1200.0,600.0,1900.0
+Algeria,1200.0,600.0,1900.0
+Syria,1100.0,500.0,1800.0
+Bulgaria,1100.0,600.0,1600.0
+Romania,1000.0,500.0,1600.0
+Greece,900.0,500.0,1400.0
+Canada,800.0,400.0,1200.0
+Nigeria,800.0,400.0,1300.0
+Hungary,800.0,400.0,1200.0
+Thailand,800.0,400.0,1300.0
+Saudi Arabia,700.0,400.0,1200.0
+Uzbekistan,700.0,400.0,1300.0
+Serbia & Montenegro,700.0,400.0,1100.0
+Czech Republic,700.0,400.0,1100.0
+United Kingdom,700.0,400.0,1100.0
+Myanmar,600.0,300.0,900.0
+Portugal,500.0,300.0,800.0
+South Africa,500.0,200.0,700.0
+Kazakhstan,500.0,300.0,800.0
+Nepal,500.0,300.0,800.0
+Tunisia,400.0,200.0,700.0
+Belgium,400.0,200.0,600.0
+Austria,400.0,200.0,600.0
+Malaysia,400.0,200.0,700.0
+Netherlands,400.0,200.0,600.0
+Afghanistan,400.0,200.0,700.0
+Switzerland,300.0,200.0,500.0
+Georgia,300.0,200.0,500.0
+Israel,300.0,200.0,500.0
+Slovakia,300.0,100.0,400.0
+Lebanon,300.0,100.0,500.0
+Azerbaijan,300.0,200.0,500.0
+Belarus,300.0,200.0,500.0
+"Congo, DRC",300.0,200.0,600.0
+Croatia,300.0,200.0,500.0
+Sudan,200.0,100.0,400.0
+United Arab Emirates,200.0,100.0,400.0
+Turkmenistan,200.0,100.0,300.0
+Armenia,200.0,100.0,200.0
+Cuba,200.0,100.0,400.0
+Albania,200.0,100.0,300.0
+Sweden,200.0,100.0,300.0
+Bosnia & Herzegovina,200.0,100.0,300.0
+Ghana,200.0,100.0,400.0
+Libya,200.0,100.0,300.0
+Jordan,200.0,100.0,200.0
+Denmark,100.0,100.0,200.0
+Tajikistan,100.0,100.0,200.0
+Macedonia,100.0,100.0,200.0
+Benin,100.0,0.0,100.0
+Norway,100.0,0.0,100.0
+Moldova,100.0,0.0,100.0
+Latvia,100.0,0.0,100.0
+Cote d'Ivory,100.0,0.0,100.0
+Sri Lanka,100.0,0.0,200.0
+Slovenia,100.0,0.0,100.0
+Peru,100.0,0.0,100.0
+Chile,100.0,100.0,200.0
+Cambodia,100.0,0.0,100.0
+Mongolia,100.0,0.0,100.0
+Lithuania,100.0,0.0,100.0
+Laos,100.0,0.0,100.0
+Argentina,100.0,100.0,200.0
+Finland,100.0,0.0,100.0
+Zambia,100.0,100.0,200.0
+Yemen,100.0,0.0,100.0
+Guatemala,100.0,100.0,200.0
+Guinea,100.0,0.0,100.0
+Angola,100.0,100.0,200.0
+Haiti,100.0,0.0,100.0
+Cameroon,100.0,100.0,200.0
+Togo,100.0,0.0,100.0
+Kyrgyzstan,100.0,100.0,200.0
+Dominican Republic,100.0,0.0,100.0
+Kuwait,100.0,0.0,100.0
+Bhutan,0.0,0.0,0.0
+Rwanda,0.0,0.0,0.0
+The Bahamas,0.0,0.0,0.0
+Senegal,0.0,0.0,0.0
+Central African Republic,0.0,0.0,100.0
+Burundi,0.0,0.0,0.0
+Sierra Leone,0.0,0.0,0.0
+Burkina Faso,0.0,0.0,0.0
+Solomon Is.,0.0,0.0,0.0
+Somalia,0.0,0.0,0.0
+Brunei,0.0,0.0,0.0
+Botswana,0.0,0.0,0.0
+Bolivia,0.0,0.0,0.0
+Western Sahara,0.0,0.0,0.0
+Tanzania,0.0,0.0,0.0
+St. Lucia,0.0,0.0,0.0
+Belize,0.0,0.0,0.0
+Timor Leste,0.0,0.0,0.0
+Suriname,0.0,0.0,0.0
+Vanuatu,0.0,0.0,0.0
+Swaziland,0.0,0.0,0.0
+Uruguay,0.0,0.0,0.0
+Australia,0.0,0.0,0.0
+Uganda,0.0,0.0,0.0
+Venezuela,0.0,0.0,0.0
+Gabon,0.0,0.0,0.0
+Qatar,0.0,0.0,0.0
+Puerto Rico,0.0,0.0,0.0
+Liberia,0.0,0.0,0.0
+Lesotho,0.0,0.0,0.0
+Kenya,0.0,0.0,0.0
+Djibouti,0.0,0.0,0.0
+Jamaica,0.0,0.0,0.0
+Ecuador,0.0,0.0,0.0
+El Salvador,0.0,0.0,0.0
+Ireland,0.0,0.0,0.0
+Equatorial Guinea,0.0,0.0,0.0
+Eritrea,0.0,0.0,0.0
+Estonia,0.0,0.0,0.0
+Ethiopia,0.0,0.0,0.0
+Iceland,0.0,0.0,0.0
+Falkland Is.,0.0,0.0,0.0
+Honduras,0.0,0.0,0.0
+Guyana,0.0,0.0,0.0
+Guinea-Bissau,0.0,0.0,0.0
+Greenland,0.0,0.0,0.0
+Fiji,0.0,0.0,0.0
+Luxembourg,0.0,0.0,0.0
+Madagascar,0.0,0.0,0.0
+Malawi,0.0,0.0,0.0
+Congo,0.0,0.0,0.0
+Chad,0.0,0.0,0.0
+Philippines,0.0,0.0,100.0
+Paraguay,0.0,0.0,0.0
+Papua New Guinea,0.0,0.0,0.0
+Panama,0.0,0.0,0.0
+Colombia,0.0,0.0,0.0
+Oman,0.0,0.0,100.0
+French Guiana,0.0,0.0,0.0
+Niger,0.0,0.0,0.0
+Mali,0.0,0.0,0.0
+Nicaragua,0.0,0.0,0.0
+New Zealand,0.0,0.0,0.0
+New Caledonia,0.0,0.0,0.0
+Costa Rica,0.0,0.0,0.0
+Namibia,0.0,0.0,0.0
+Mozambique,0.0,0.0,0.0
+Cyprus,0.0,0.0,100.0
+Mauritania,0.0,0.0,0.0
+Zimbabwe,0.0,0.0,0.0
