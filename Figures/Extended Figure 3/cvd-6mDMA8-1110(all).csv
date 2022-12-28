@@ -1,0 +1,19 @@
+﻿study,Author,Year,hr,lb,ub,metric,pop,region
+Jerrett et al. 2009,Jerrett,2009,0.980 ,0.965 ,0.993 ,6mDMA1,USA,North America
+Smith et al. 2009,Smith,2009,1.053 ,1.014 ,1.114 ,6mDMA1,USA,North America
+Lipsett et al. 2011,Lipsett,2011,1.004 ,0.991 ,1.015 ,ADA24,USA,North America
+Jerrett et al. 2013,Jerrett,2013,1.010 ,0.997 ,1.022 ,ADA24,USA,North America
+Bentayeb et al. 2015,Bentayeb,2015,0.806 ,0.343 ,1.886 ,6mDMA8,France,Europe
+Crouse et al. 2015,Crouse,2015,1.040 ,1.025 ,1.055 ,6mDMA8,Canada,North America
+Turner et al. 2016,Turner,2016,1.026 ,1.009 ,1.043 ,6mDMA8,USA,North America
+Weichenthal et al. 2017,Weichenthal,2017,1.161 ,1.144 ,1.178 ,6mDMA8,Canada,North America
+Hvidtfeldt et al. 2019,Hvidtfeldt,2019,0.878 ,0.817 ,0.959 ,ADA24,Denmark,Europe
+Kazemiparkouhi et al. 2019,Kazemiparkouhi,2019,0.995 ,0.994 ,0.999 ,6mDMA1,USA,North America
+Lim et al. 2019,Lim,2019,1.020 ,0.990 ,1.030 ,6mDMA8,USA,North America
+Paul et al. 2020,Paul,2020,1.105 ,1.078 ,1.133 ,6mDMA8,Cananda,North America
+Strak et al. 2021,Strak,2021,0.868 ,0.830 ,0.909 ,6mDMA8,Multiple,Europe
+Bauwelinck et al. 2022,Bauwelinck,2022,1.050 ,1.022 ,1.076 ,6mDMA8,Belgium,Europe
+Stafoggia et al. 2022,Stafoggia,2022,0.954 ,0.912 ,0.996 ,6mDMA8,Multiple,Europe
+So et al. 2022,So et al.,2022,0.942 ,0.886 ,0.980 ,6mDMA8,Denmark,Europe
+Liu et al. 2022,Liu et al.,2022,1.249 ,1.060 ,1.500 ,6mDMA8,China,Asia
+Niu et al. 2022,Niu et al.,2022,1.214 ,1.066 ,1.383 ,6mDMA8,China,Asia
